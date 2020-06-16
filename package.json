@@ -1,34 +1,41 @@
 {
-    "version": "6.4.3",
-    "name": "cordova-plugin-fcm-with-dependecy-updated",
-    "cordova_name": "Cordova FCM Push Plugin",
-    "description": "Google Firebase Cloud Messaging Cordova Push Plugin fork with dependecy updated",
-    "license": "MIT",
-    "main": "www/FCMPlugin.js",
-    "typings": "src/FCMPlugin.d.ts",
-    "repo": "",
-    "issue": "",
-    "author": "André Augusto Tissot",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated"
-    },
-    "keywords": [
-        "ecosystem:cordova",
-        "cordova-android",
-        "cordova-ios",
-        "notifications",
-        "push",
-        "firebase",
-        "fcm",
-        "ios",
-        "android",
-        "cordova"
-    ],
-    "platforms": [
-        "android",
-        "ios"
-    ],
-    "engines": [],
-    "englishdoc": ""
+  "version": "6.4.3",
+  "name": "@farsheel/cordova-plugin-fcm-with-dependecy-updated",
+  "cordova_name": "Cordova FCM Push Plugin",
+  "description": "Google Firebase Cloud Messaging Cordova Push Plugin fork with dependecy updated",
+  "license": "MIT",
+  "main": "www/FCMPlugin.js",
+  "typings": "src/FCMPlugin.d.ts",
+  "repo": "",
+  "issue": "",
+  "author": "André Augusto Tissot",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "notifications",
+    "push",
+    "firebase",
+    "fcm",
+    "ios",
+    "android",
+    "cordova"
+  ],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "engines": [],
+  "englishdoc": "",
+  "bugs": {
+    "url": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated/issues"
+  },
+  "homepage": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
